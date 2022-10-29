@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sainihal22
+- 👀 I’m interested in flask, python, MySQL, ml/dl/ and my favourite cloud
+- 🌱 I’m currently learning devops and dl/ml
+- 💞️ I’m looking to collaborate on any of the above projects.
+- 📫 How to reach me : sainihalcricket01@gmail.com / 8597016095
